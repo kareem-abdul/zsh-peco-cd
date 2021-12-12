@@ -1,4 +1,4 @@
-# zsh-peco-cd
+# zsh-peco-cd 0.0.1
 #
 # search for directories with peco when pressing ctrl+f
 #
